@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Lender": "Bank A",
+    "InterestRate": 0.02,
+    "InterestType": 1,
+    "LoanToValue": 0.6
+  },
+  {
+    "Lender": "Bank B",
+    "InterestRate": 0.03,
+    "InterestType": 2,
+    "LoanToValue": 0.6
+  },
+  {
+    "Lender": "Bank C",
+    "InterestRate": 0.04,
+    "InterestType": 1,
+    "LoanToValue": 0.9
+  }
+]
